@@ -37,7 +37,7 @@ This repository serves the following purposes:
 
 ## Contact
 
-For professional inquiries, collaborations, or mentorship opportunities, please visit [https://chasekbryan.info](https://chasekbryan.info) or connect with me via GitHub.
+For professional inquiries, collaborations, please connect with me via GitHub.
 
 Thank you for visiting.
 
