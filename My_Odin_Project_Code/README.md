@@ -1,0 +1,1 @@
+Odin Recipes is a current display of what I have learned at the Odin Project and will be a demonstration of my current abilities. It is a lab project which I will revisit to revise and update in the future futher along in the OP curriculum.
